@@ -1,6 +1,9 @@
 #+title: Critical AI
 #+author: Ashley Sagar
 
+
+some text here
+
 [[https://learn.gold.ac.uk/course/view.php?id=27943][Critical AI VLE]]
 
 
