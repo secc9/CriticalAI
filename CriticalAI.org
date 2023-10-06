@@ -2,9 +2,13 @@
 #+author: Ashley Sagar
 
 
-some text here
 
 [[https://learn.gold.ac.uk/course/view.php?id=27943][Critical AI VLE]]
+
+
+- [[https://pad.riseup.net/p/critical-ai-2023-2024-keep][PiratePad- Keywords, links, to check up on etc]]
+
+
 
 
 
@@ -13,6 +17,71 @@ some text here
 - [[https://ml4a.github.io/ml4a/][Machine Learning for Artists]]
 - [[https://ml4a.github.io/classes/itp-F18/][The Neural Aesthetic]]
 - [[https://www.3blue1brown.com/topics/neural-networks][Neural Networks]]
+- [[http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.32366&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false][Tensorflow playground]]
+
+  - to have a good unerstanding of what ai can do so we can uderstand what will posibly happen
+
+  - What could be????????????????????
+
+*** What  is AI???
+*** What are some of the common issues that arise with this????
+- artificial decision making?
+- power to catch humans making mistakes?
+- heavy lifting for humans?
+- 
+- neural networks
+
+
+- first neural network was 1958 - Mk1 Perceptron machine
+- neural networks idea has been around for a  long time
+- neural networks supposedly work well on graphics processer units (GPU)
+- NVIDIA is the power in this
+- A feature of ai and neural networks is that no-one understands what is going on inside it even by looking inside them we don't understand them....
+- We don't understand how they work and the definatly dont work in the way we do
+- This is effecting peoples lives and its important to understand what it's doing and how it works
+- 
+  
+- AI is pattern finding
+  - this is based on correlation
+  - as humans we have an understadning on how the world works but AI is different
+
+- AI has to be programmed using very cheap labor
+- Has a high carbon emission output to train AI
+- is comen to discuss ai as abstract but in reality its a huge machine that uses up a lot of power to run
+- 
+
+** Machine Learning 
+- AI is uner the umbrella of machine learning
+- start of with something random and then over time it figures out what it needs to do
+- Algorhtym starts with just guesses but then the algorhthm starts to calculate
+- use a machine to do something over and over to finally find a best fit
+-
+
+** Neural Networks
+
+- takes a variety of inputs to output a single thing
+- started by beunbg compared to a brain but later finding out that tis isnt the case
+- a number of inputs to a single output with a numner of hidden layers between
+- neural networks dont need rules to figure out what it is been asked to do
+- adding in hidden layer makes the output better
+- [[https://ml4a.github.io/demos/f_mnist_weights/][weights and filters for numbers]]
+- is a well funded area. Banks.
+- This stuff isnt done for fun. The industry is operating on funding
+- belief that it has real life applications
+- a function is mapping one thing to another
+- YOU NEED A LOT OF DATA
+-
+
+  IVE ZONED OUT NOW
+
+
+- neural networks are very powerful but very fragile.
+- they get it wrong
+- if an image isnt in the data set then the machine doenst know what it is
+- OUTER DISTRUBUTION ERRORS
+- learning from flat images. doenst' have 3d models of real things
+
+
 
 * Week_02
 
